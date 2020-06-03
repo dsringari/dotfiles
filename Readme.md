@@ -1,4 +1,4 @@
-# Artem Sapegin’s dotfiles
+# Fork of Artem Sapegin’s dotfiles for Dhruv
 
 ![iTerm2](https://github.com/sapegin/squirrelsong/raw/master/squirrelsong_terminal.png)
 
